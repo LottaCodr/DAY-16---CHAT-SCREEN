@@ -27,7 +27,7 @@ class _HomeScreenState extends State<HomeScreen> {
           color: Colors.white,
         ),
         title: const Text(
-          'YouChat',
+          'YooHoo!',
           style: TextStyle(fontSize: 28, fontWeight: FontWeight.bold),
         ),
         elevation: 0,
